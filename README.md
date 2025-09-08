@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 💫 About Me:
 I am currently a 2nd-year undergrad at RGIPT<br>I am doing DSA and exploring AI, ML, and backend Systems using Springboot<br>I am good at Java, Python, C++, and JavaScript<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=4000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=900&lines=Always+learning+and+trying+to+build+new+things;Loved+to+be+part+of+Developers+Community" alt="Animated Text"/>
+</p>
+
 
 
 ## 🌐 Socials:
